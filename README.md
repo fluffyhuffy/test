@@ -1,5 +1,5 @@
 <p align="center">
-<H1>IoT Village</H1>
+  <H1>IoT Village</H1>
 </p>
 
 ### created by 
@@ -23,4 +23,4 @@ CTF will be a multi-tiered event with over 20 IoT devices to pwn.
 Nest, Amazon, Samsung, Netgear and many others!
 
 ##How to participate?
-Simply introduce yourself in the Village Roo
+Simply introduce yoursel
