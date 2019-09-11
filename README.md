@@ -12,7 +12,7 @@
 
 \
 \
-\
+
 
 ## Summary
 The Internet of Things has taken off, and is one of the largest areas of new security research. This village is a playground for you to try some of the latest IOT attacks, and to potentially discover your own!
