@@ -22,3 +22,14 @@ Nest, Amazon, Samsung, Netgear and many others!
 
 ## How to participate?
 Simply introduce yourself in the Village Room, do not be shy to ask questions and help!
+
+## Our Sponsors
+### Title Sponsor
+<p align="center">
+<img src="https://villageidiotlabs.org/assets/images/pmscada-logo-801x236.png" alt="" width="410" height="122" />
+</p>
+
+### Sponsors
+<p align="center">
+<img src="https://villageidiotlabs.org/assets/images/rigelkent-logo-499x151.png" alt="" width="251" height="76" /><img src="https://villageidiotlabs.org/assets/images/bitdefender-logo-501x144.png" alt="" width="240" height="69" />
+</p>
