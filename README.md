@@ -1,6 +1,7 @@
 <p align="center">
 <H1>IoT Village</H1>
-</>
+</p>
+
 ### created by 
 <p align="center">
   <img src="https://www.securityevaluators.com/wp-content/themes/IndependentSecurity/images/logo-text.svg" alt="" width="243" height="179" />
@@ -22,4 +23,4 @@ CTF will be a multi-tiered event with over 20 IoT devices to pwn.
 Nest, Amazon, Samsung, Netgear and many others!
 
 ##How to participate?
-Simply introduce yourse
+Simply introduce yourself in the Village Roo
