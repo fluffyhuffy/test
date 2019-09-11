@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://villageidiotlabs.org/assets/images/LM-logo.png" alt="" width="243" height="179" /><img src="https://villageidiotlabs.org/assets/images/epyc_logo_transparent.png" alt="" width="226" height="186" />
 </p>
-
-&NewLine;
-&NewLine;
+\
+\
+\
 
 ## Summary
 The Internet of Things has taken off, and is one of the largest areas of new security research. This village is a playground for you to try some of the latest IOT attacks, and to potentially discover your own!
